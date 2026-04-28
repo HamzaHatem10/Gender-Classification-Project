@@ -1,0 +1,9 @@
+.venv
+.vscode
+__pycache__
+dataset/
+brightness_and_contrast.py
+Histogram.py
+dataset_analysis/
+dataset_analysis.py
+brightness_contrast_results/
